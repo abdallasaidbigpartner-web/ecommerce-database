@@ -55,3 +55,5 @@ In testing, the CHECK constraint fires first (since it's evaluated as part of th
 - [sql-learning-journey](https://github.com/abdallasaidbigpartner-web/sql-learning-journey)
 - [ai-study-assistant](https://github.com/abdallasaidbigpartner-web/ai-study-assistant)
 - [task-manager-api](https://github.com/abdallasaidbigpartner-web/task-manager-api)
+- [study-assistant-frontend](https://github.com/abdallasaidbigpartner-web/study-assistant-frontend)
+- [url-shortener-go](https://github.com/abdallasaidbigpartner-web/url-shortener-go)
