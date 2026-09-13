@@ -1,5 +1,7 @@
 # E-Commerce Database
 
+![CI](https://github.com/abdallasaidbigpartner-web/ecommerce-database/actions/workflows/ci.yml/badge.svg)
+
 A genuine multi-table relational database design demonstrating advanced PostgreSQL engineering: foreign keys, check constraints, triggers, stored functions, and views - verified end-to-end with an automated Python test harness. This is a database engineering capstone, going beyond basic CRUD into real data-integrity enforcement at the database layer.
 
 ## Schema
